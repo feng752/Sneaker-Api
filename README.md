@@ -6,7 +6,7 @@
 ![Logo](public/images/logo.png)
 
 
-## Created by: Dominique Hosea
+## Created by: John William
 
 ### November 2020
 
